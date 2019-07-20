@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "83864611453",
+    "firebase_url": "https://bachelors-caaf0.firebaseio.com",
+    "project_id": "bachelors-caaf0",
+    "storage_bucket": "bachelors-caaf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83864611453:android:c7502495a5d54f91",
+        "android_client_info": {
+          "package_name": "com.example.Bachelors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83864611453-iiffrp0muq8sekaulpsadfo0gu1k0jaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Bachelors",
+            "certificate_hash": "ab1a7473b2363727614353136395a0db99dc27b4"
+          }
+        },
+        {
+          "client_id": "83864611453-mt416aq3toukn8au8hldeinh8hjt5j1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Bachelors",
+            "certificate_hash": "3bca0bd6fe6eaf07f8f31b34808056327dff9601"
+          }
+        },
+        {
+          "client_id": "83864611453-srf2u6pl8hllio5spv5qjsggsjnpb16h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMY0phZcnxWihfPVQpfR-dGYjteAZarb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83864611453-srf2u6pl8hllio5spv5qjsggsjnpb16h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
